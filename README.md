@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vishwa-maduwantha-bbb2b6222/](https://www.linkedin.com/in/vishwa-maduwantha-bbb2b6222/)
 
-- ⚡ Fun fact **I think I am funny at every moment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
