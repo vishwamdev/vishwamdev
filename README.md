@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwa Maduwantha</h1>
-<h3 align="center">Undergraduate | BEng. (Hons) Electrical & Electronic Engineering</h3>
+<h3 align="center">Project Engineer - Electrical @HayleysGroup</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishwamdev&label=Profile%20views&color=0e75b6&style=flat" alt="vishwamdev" /> </p>
 
@@ -7,9 +7,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **developing a multiparameter module**
-
-- 🌱 I’m currently learning **3D designing**
+- 🔭 I’m currently working at **Haycarb PLC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishwamdev](https://github.com/vishwamdev)
 
@@ -17,7 +15,7 @@
 
 - 💬 Ask me about **Trical Tronic**
 
-- 📫 How to reach me **vishwam.prof@gmail.com or vmaduwantha95@gmail.com**
+- 📫 How to reach me **vishwam.prof@gmail.com or vmm@haycarb.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vishwa-maduwantha-bbb2b6222/](https://www.linkedin.com/in/vishwa-maduwantha-bbb2b6222/)
 
